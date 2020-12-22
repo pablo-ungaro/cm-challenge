@@ -28,7 +28,7 @@ cd web-scrap
 ./gradlew run
 
 ```
-** Saída **
+**Saída**
 ```text
   O resultado será salvo na raiz do projeto com nome quotes.json
 ```
